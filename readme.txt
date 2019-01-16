@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This is an example sentence with special thanks and all credits going to [insert plugin author's name or company we got it from] for the original plugin.
+Add additional options for users when they send each other friend requests with special thanks and all credits going to BuddyDev for the original plugin.
 
 == Installation ==
 
