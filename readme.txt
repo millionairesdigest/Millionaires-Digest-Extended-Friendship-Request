@@ -1,4 +1,4 @@
-== Millionaire's Digest Plugin Name ===
+== Millionaire's Digest Extended Friendship Request ===
 Contributors: K&L
 Tags: Millionaire's Digest, Tag Name
 Requires at least: 4.5.7
