@@ -1,6 +1,6 @@
 == Millionaire's Digest Extended Friendship Request ===
 Contributors: K&L
-Tags: Millionaire's Digest, Tag Name
+Tags: Millionaire's Digest, Friend Requests
 Requires at least: 4.5.7
 Tested up to: 4.9.1
 Stable tag: 1.0.0
